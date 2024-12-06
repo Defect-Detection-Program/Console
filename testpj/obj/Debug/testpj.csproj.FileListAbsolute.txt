@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\testpj\testpj\bin\Debug\testpj.exe.config
+C:\Users\user\source\repos\testpj\testpj\bin\Debug\testpj.exe
+C:\Users\user\source\repos\testpj\testpj\bin\Debug\testpj.pdb
+C:\Users\user\source\repos\testpj\testpj\obj\Debug\testpj.Form1.resources
+C:\Users\user\source\repos\testpj\testpj\obj\Debug\testpj.Properties.Resources.resources
+C:\Users\user\source\repos\testpj\testpj\obj\Debug\testpj.csproj.GenerateResource.cache
+C:\Users\user\source\repos\testpj\testpj\obj\Debug\testpj.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\testpj\testpj\obj\Debug\testpj.exe
+C:\Users\user\source\repos\testpj\testpj\obj\Debug\testpj.pdb

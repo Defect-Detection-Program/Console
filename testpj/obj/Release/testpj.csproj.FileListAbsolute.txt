@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\testpj\testpj\bin\Release\testpj.exe.config
+C:\Users\user\source\repos\testpj\testpj\bin\Release\testpj.exe
+C:\Users\user\source\repos\testpj\testpj\bin\Release\testpj.pdb
+C:\Users\user\source\repos\testpj\testpj\obj\Release\testpj.Form1.resources
+C:\Users\user\source\repos\testpj\testpj\obj\Release\testpj.Properties.Resources.resources
+C:\Users\user\source\repos\testpj\testpj\obj\Release\testpj.csproj.GenerateResource.cache
+C:\Users\user\source\repos\testpj\testpj\obj\Release\testpj.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\testpj\testpj\obj\Release\testpj.exe
+C:\Users\user\source\repos\testpj\testpj\obj\Release\testpj.pdb
+C:\Users\user\source\repos\testpj\testpj\obj\Release\testpj.csprojAssemblyReference.cache
